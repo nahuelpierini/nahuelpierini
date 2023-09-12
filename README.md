@@ -14,7 +14,7 @@
 
 ## Contacto
 - 📧 Correo Electrónico: [nahuelpierini@gmail.com](mailto:tu@email.com)
-- 🔗 LinkedIn: [https://www.linkedin.com/in/nahuel-pierini/](enlace-a-tu-perfil)
+- 🔗 LinkedIn: [https://www.linkedin.com/in/nahuel-pierini/](https://www.linkedin.com/in/nahuel-pierini/)
 - 💼 Sitio Web/Blog: [En Construcción...](https://tu-sitio-web.com)
 
 ## Estadísticas GitHub
