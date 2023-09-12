@@ -18,7 +18,7 @@
 - 💼 Sitio Web/Blog: [En Construcción...](https://tu-sitio-web.com)
 
 ## Estadísticas GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tnahuelpierini&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=nahuelpierini&show_icons=true&theme=radical)
 
 ##
 > "El éxito no es la clave de la felicidad. La felicidad es la clave del éxito. Si amas lo que haces, tendrás éxito." - Albert Schweitzer
